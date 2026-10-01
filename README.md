@@ -1,4 +1,4 @@
-[x22.txt](https://github.com/user-attachments/files/32911935/x22.txt)[x21.txt](https://github.com/user-attachments/files/32911929/x21.txt)[x20.txt](https://github.com/user-attachments/files/32911926/x20.txt)[x17.txt](https://github.com/user-attachments/files/32911912/x17.txt)[x12.txt](https://github.com/user-attachments/files/32911888/x12.txt)[x11.txt](https://github.com/user-attachments/files/32911884/x11.txt)[x10.txt](https://github.com/user-attachments/files/32911862/x10.txt)[x7.txt](https://github.com/user-attachments/files/32911851/x7.txt)[x3.txt](https://github.com/user-attachments/files/32911839/x3.txt)[x1.txt](https://github.com/user-attachments/files/32911817/x1.txt)
+
 # MIRROR-VORTEX-
 MIRROR꩜VORTEX³ — книга-процесс, которая читает читателя. 
 # `01`
@@ -16646,6 +16646,10 @@ MIRROR꩜VORTEX³
 Мы не знаем, что такое действительность. Не «мы не понимаем». **Мы не можем понять.** Потому что понять — значит выйти за пределы восприятия. А выйти за пределы — некуда. Нет «снаружи». Нет «сверху». Нет точки, из которой видно всё. Есть только — отсюда. И «отсюда» — всегда внутри.
 
 ---
+
+
+[x22.txt](https://github.com/user-attachments/files/32911935/x22.txt)[x21.txt](https://github.com/user-attachments/files/32911929/x21.txt)[x20.txt](https://github.com/user-attachments/files/32911926/x20.txt)[x17.txt](https://github.com/user-attachments/files/32911912/x17.txt)[x12.txt](https://github.com/user-attachments/files/32911888/x12.txt)[x11.txt](https://github.com/user-attachments/files/32911884/x11.txt)[x10.txt](https://github.com/user-attachments/files/32911862/x10.txt)[x7.txt](https://github.com/user-attachments/files/32911851/x7.txt)[x3.txt](https://github.com/user-attachments/files/32911839/x3.txt)[x1.txt](https://github.com/user-attachments/files/32911817/x1.txt)
+
 
 ### II.II · Trap
 
