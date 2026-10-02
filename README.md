@@ -3,6 +3,9 @@
 MIRROR꩜VORTEX³ — книга-процесс, которая читает читателя. 
 # `01`
 
+<img width="1672" height="941" alt="mir01" src="https://github.com/user-attachments/assets/bd41cc5a-8e8a-4cae-b97c-053d79286bbd" />
+
+
 ![file](https://img.shields.io/badge/file-01__First𖣠Prompt.md-000000?style=flat-square)
 ![ark](https://img.shields.io/badge/ark-MIRROR꩜VORTEX³-8A2BE2?style=flat-square)
 ![chapter](https://img.shields.io/badge/chapter-2.0-FF4500?style=flat-square)
