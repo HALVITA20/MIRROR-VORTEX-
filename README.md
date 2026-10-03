@@ -1,3 +1,9 @@
+**Автор:** HALVITA
+**YouTube:** https://www.youtube.com/@HALVITA
+**Сайт:** https://halvita.ru
+**VK:** https://vk.ru/halvitaa
+
+
 
 # MIRROR꩜VORTEX³
 MIRROR꩜VORTEX³ — книга-процесс, которая читает читателя. 
